@@ -1,0 +1,87 @@
+h1{
+    color: blue;
+    font-family: sans-serif;
+
+}
+
+body{
+background-image: url('university.jpg');
+font-family: monospace;
+font-size: 15px;
+margin:0px;
+}
+
+
+
+#main-header{
+    margin-left: 30%;
+    
+}
+
+.forms{
+    border-style: ridge;
+    border-width: 10px;
+    background-color:forestgreen ;
+    border-radius: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+
+label {
+    margin-left: 2%;
+}
+
+.course{
+    margin-left: 2%;
+}
+
+
+
+.textbox{
+    border: 2px;
+    border-style: inset;
+
+}
+
+.container{
+    margin: 2%
+    /*font-size:40px;*/
+    
+}
+
+.btn{
+    align-items: center;
+    border-radius: 40px;
+    width: 100px;
+    font-style: italic;
+    font-weight: bold;
+    color: crimson;
+}
+
+.login{
+    height: 40px;
+    width: 80%;
+    border-radius: 15px;
+    border: none;
+}
+
+.loginPage{
+    margin-left: 20%;
+    margin-right:20%;    
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color:chocolate
+}
+
+.complaintview{
+    position:relative;
+    display:inline-block;
+    margin-left:10px;
+}
